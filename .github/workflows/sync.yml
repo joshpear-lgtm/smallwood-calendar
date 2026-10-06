@@ -1,0 +1,44 @@
+name: Refresh Smallwood calendars
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['sync.py', 'test_sync.py', '.github/workflows/sync.yml']
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: school-calendar-publish
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest -v
+      - run: python sync.py
+      - name: Save stable event metadata and latest feeds
+        run: |
+          git config user.name 'Smallwood Calendar Sync'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh school calendar feeds'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
