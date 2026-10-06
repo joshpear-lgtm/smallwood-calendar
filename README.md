@@ -1,6 +1,13 @@
 # Smallwood school → Skylight
 
-Status: built and tested against the live school website on 6 October 2026. Not yet deployed or connected to a Skylight device.
+Status: deployed to GitHub Pages on 6 October 2026. The cloud refresh job succeeded, and all three public feeds returned HTTP 200 with text/calendar content and passed independent parsing. Adding the subscriptions to Skylight and verifying device updates remain to be completed.
+
+Live feeds:
+- https://joshpear-lgtm.github.io/smallwood-calendar/whole-school.ics
+- https://joshpear-lgtm.github.io/smallwood-calendar/year-5.ics
+- https://joshpear-lgtm.github.io/smallwood-calendar/year-6.ics
+
+Successful deployment: https://github.com/joshpear-lgtm/smallwood-calendar/actions/runs/37483101352
 
 This bridge publishes three automatically refreshed calendar subscription files. GitHub runs it in the cloud every six hours, so no home computer stays on. A public GitHub repository and GitHub Pages provide free hosting; no Google Calendar or Skylight credentials are needed by the bridge.
 
@@ -45,7 +52,7 @@ Six automated tests cover routing, changed-format rejection, summer/winter UK ti
 
 The snapshot contains 28 Whole School, 48 Year 5 and 2 Year 6 records including the previous 90 days. This is not a claim that only two Year 6 activities exist: events shared by both boys are included in Whole School, and the source may be incomplete.
 
-Hosted execution, public feed fetching and Skylight import/update/removal are pending account access and deployment.
+Hosted execution and public feed fetching are verified. Skylight import/update/removal require device verification.
 
 ## Sources
 
