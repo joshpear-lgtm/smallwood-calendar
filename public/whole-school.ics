@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Smallwood Calendar Bridge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Smallwood – Whole School
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:schoolspider-262-472781@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:The Sound of Music - Matinee
+URL:https://www.smallwood.cheshire.sch.uk/event/the-sound-of-music-matinee/
+ 472781
+DTSTART:20260708T120000Z
+DTEND:20260708T140000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/the-sound-o
+ f-music-matinee/472781\nTimes are published by the school. No duration is 
+ invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-472783@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:The Sound of Music
+URL:https://www.smallwood.cheshire.sch.uk/event/the-sound-of-music/472783
+DTSTART:20260709T170000Z
+DTEND:20260709T190000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/the-sound-o
+ f-music/472783\nTimes are published by the school. No duration is invented
+  when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-472784@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:End of Year and Leavers' Disco
+URL:https://www.smallwood.cheshire.sch.uk/event/end-of-year-and-leavers-dis
+ co/472784
+DTSTART:20260716T160000Z
+DTEND:20260716T180000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/end-of-year
+ -and-leavers-disco/472784\nTimes are published by the school. No duration 
+ is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-472786@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Break-up for Summer - 1.30pm
+URL:https://www.smallwood.cheshire.sch.uk/event/break-up-for-summer-130pm/4
+ 72786
+DTSTART:20260717T123000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/break-up-fo
+ r-summer-130pm/472786\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484588@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Inset Day
+URL:https://www.smallwood.cheshire.sch.uk/event/inset-day/484588
+DTSTART:20260901T080000Z
+DTEND:20260901T225959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/inset-day/4
+ 84588\nTimes are published by the school. No duration is invented when the
+  source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484589@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Inset Day
+URL:https://www.smallwood.cheshire.sch.uk/event/inset-day/484589
+DTSTART:20260902T080000Z
+DTEND:20260902T225959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/inset-day/4
+ 84589\nTimes are published by the school. No duration is invented when the
+  source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484590@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Children Return
+URL:https://www.smallwood.cheshire.sch.uk/event/children-return/484590
+DTSTART:20260903T073000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/children-re
+ turn/484590\nTimes are published by the school. No duration is invented wh
+ en the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484591@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Meet the Teacher
+URL:https://www.smallwood.cheshire.sch.uk/event/meet-the-teacher/484591
+DTSTART:20260910T143000Z
+DTEND:20260910T153000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/meet-the-te
+ acher/484591\nTimes are published by the school. No duration is invented w
+ hen the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484592@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Welcome Service
+URL:https://www.smallwood.cheshire.sch.uk/event/welcome-service/484592
+DTSTART:20260911T080000Z
+DTEND:20260911T090000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/welcome-ser
+ vice/484592\nTimes are published by the school. No duration is invented wh
+ en the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484593@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Macmillan Coffee Morning
+URL:https://www.smallwood.cheshire.sch.uk/event/macmillan-coffee-morning/48
+ 4593
+DTSTART:20260925T073000Z
+DTEND:20260925T093000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/macmillan-c
+ offee-morning/484593\nTimes are published by the school. No duration is in
+ vented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484594@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Harvest Festival and Feast
+URL:https://www.smallwood.cheshire.sch.uk/event/harvest-festival-and-feast-
+ times-to-be-confirmed/484594
+DTSTART:20260926T150000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/harvest-fes
+ tival-and-feast-times-to-be-confirmed/484594\nTimes are published by the s
+ chool. No duration is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484595@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:SSP Meeting
+URL:https://www.smallwood.cheshire.sch.uk/event/ssp-meeting/484595
+DTSTART:20260930T143000Z
+DTEND:20260930T163000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/ssp-meeting
+ /484595\nTimes are published by the school. No duration is invented when t
+ he source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484596@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:SSP Meeting
+URL:https://www.smallwood.cheshire.sch.uk/event/ssp-meeting/484596
+DTSTART:20261001T143000Z
+DTEND:20261001T163000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/ssp-meeting
+ /484596\nTimes are published by the school. No duration is invented when t
+ he source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484597@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Parents Evening
+URL:https://www.smallwood.cheshire.sch.uk/event/parents-evening/484597
+DTSTART:20261013T143000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/parents-eve
+ ning/484597\nTimes are published by the school. No duration is invented wh
+ en the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484598@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Parents Evening
+URL:https://www.smallwood.cheshire.sch.uk/event/parents-evening/484598
+DTSTART:20261015T143000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/parents-eve
+ ning/484598\nTimes are published by the school. No duration is invented wh
+ en the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484599@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Finish for Half term
+URL:https://www.smallwood.cheshire.sch.uk/event/finish-for-half-term/484599
+DTSTART:20261023T141500Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/finish-for-
+ half-term/484599\nTimes are published by the school. No duration is invent
+ ed when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484600@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Half term
+URL:https://www.smallwood.cheshire.sch.uk/event/half-term/484600
+DTSTART:20261026T000000Z
+DTEND:20261101T235959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/half-term/4
+ 84600\nTimes are published by the school. No duration is invented when the
+  source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484601@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Inset Day
+URL:https://www.smallwood.cheshire.sch.uk/event/inset-day/484601
+DTSTART:20261102T090000Z
+DTEND:20261102T235959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/inset-day/4
+ 84601\nTimes are published by the school. No duration is invented when the
+  source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484602@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Macclesfield Forest Ramble - Children in Need
+URL:https://www.smallwood.cheshire.sch.uk/event/macclesfield-forest-ramble-
+ children-in-need/484602
+DTSTART:20261114T100000Z
+DTEND:20261114T120000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/macclesfiel
+ d-forest-ramble-children-in-need/484602\nTimes are published by the school
+ . No duration is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484603@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Children in Need
+URL:https://www.smallwood.cheshire.sch.uk/event/children-in-need/484603
+DTSTART:20261120T083000Z
+DTEND:20261120T235959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/children-in
+ -need/484603\nTimes are published by the school. No duration is invented w
+ hen the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484604@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Christmas Fayre
+URL:https://www.smallwood.cheshire.sch.uk/event/christmas-fayre/484604
+DTSTART:20261127T143000Z
+DTEND:20261127T163000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christmas-f
+ ayre/484604\nTimes are published by the school. No duration is invented wh
+ en the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484606@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Theatre visit
+URL:https://www.smallwood.cheshire.sch.uk/event/theatre-visit/484606
+DTSTART:20261202T093000Z
+DTEND:20261202T123000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/theatre-vis
+ it/484606\nTimes are published by the school. No duration is invented when
+  the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484605@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Senior Citizens Christmas Lunch - staggered finish
+URL:https://www.smallwood.cheshire.sch.uk/event/senior-citizens-christmas-l
+ unch-staggered-finish/484605
+DTSTART:20261204T120000Z
+DTEND:20261204T160000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/senior-citi
+ zens-christmas-lunch-staggered-finish/484605\nTimes are published by the s
+ chool. No duration is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484610@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Oak\, Maple\, Beech and Hazel Christmas Performance
+URL:https://www.smallwood.cheshire.sch.uk/event/oak-maple-beech-and-hazel-c
+ hristmas-performance/484610
+DTSTART:20261210T131500Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/oak-maple-b
+ eech-and-hazel-christmas-performance/484610\nTimes are published by the sc
+ hool. No duration is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484611@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Oak\, Maple\, Beech and Hazel Christmas Performance
+URL:https://www.smallwood.cheshire.sch.uk/event/oak-maple-beech-and-hazel-c
+ hristmas-performance/484611
+DTSTART:20261210T173000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/oak-maple-b
+ eech-and-hazel-christmas-performance/484611\nTimes are published by the sc
+ hool. No duration is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484612@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Christmas Lunch and Jumper day
+URL:https://www.smallwood.cheshire.sch.uk/event/christmas-lunch-and-jumper-
+ day/484612
+DTSTART:20261216T083000Z
+DTEND:20261216T235959Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christmas-l
+ unch-and-jumper-day/484612\nTimes are published by the school. No duration
+  is invented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484613@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Christmas Party and Disco
+URL:https://www.smallwood.cheshire.sch.uk/event/christmas-party-and-disco/4
+ 84613
+DTSTART:20261217T130000Z
+DTEND:20261217T150000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christmas-p
+ arty-and-disco/484613\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-484614@smallwood-calendar
+DTSTAMP:20261006T145353Z
+LAST-MODIFIED:20261006T145353Z
+SEQUENCE:0
+SUMMARY:Christingle Service
+URL:https://www.smallwood.cheshire.sch.uk/event/christingle-service/484614
+DTSTART:20261218T110000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christingle
+ -service/484614\nTimes are published by the school. No duration is invente
+ d when the source has no valid end time.
+END:VEVENT
+END:VCALENDAR
