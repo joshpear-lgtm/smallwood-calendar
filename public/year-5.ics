@@ -8,18 +8,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:schoolspider-262-472833@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
-SUMMARY:Beech Forest School
-URL:https://www.smallwood.cheshire.sch.uk/event/beech-forest-school/472833
-DTSTART:20260709T123000Z
-DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-fores
- t-school/472833\nTimes are published by the school. No duration is invente
- d when the source has no valid end time.
-END:VEVENT
-BEGIN:VEVENT
 UID:schoolspider-262-494056@smallwood-calendar
 DTSTAMP:20261006T145353Z
 LAST-MODIFIED:20261006T145353Z
