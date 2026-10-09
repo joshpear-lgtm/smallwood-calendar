@@ -38,7 +38,35 @@ jobs:
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: upload
         with:
           path: public
-      - uses: actions/deploy-pages@v4
+      # Use the upload ID directly: artifact listing can return zero after upload.
+      - name: Publish calendars using uploaded artifact ID
+        uses: actions/github-script@v8
         id: deployment
+        env:
+          PAGES_ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        with:
+          script: |
+            const artifactId = process.env.PAGES_ARTIFACT_ID;
+            if (!/^\d+$/.test(artifactId || '')) throw new Error('Missing uploaded artifact ID');
+            const oidc = await core.getIDToken();
+            const {data: deployment} = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
+              ...context.repo, artifact_id: Number(artifactId),
+              pages_build_version: context.sha, oidc_token: oidc
+            });
+            core.setOutput('page_url', deployment.page_url);
+            const deadline = Date.now() + 300000;
+            while (Date.now() < deadline) {
+              await new Promise(resolve => setTimeout(resolve, 5000));
+              const {data: status} = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{deployment_id}', {
+                ...context.repo, deployment_id: deployment.id
+              });
+              core.info(`Pages deployment: ${status.status}`);
+              if (status.status === 'succeed') return;
+              if (!['deployment_in_progress', 'queued', 'waiting'].includes(status.status)) {
+                throw new Error(`Pages deployment failed: ${status.status}`);
+              }
+            }
+            throw new Error('Pages deployment timed out');
