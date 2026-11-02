@@ -1,9 +1,9 @@
 {
-  "updated_at": "20261102T073526Z",
-  "source_events": 1962,
+  "updated_at": "20261102T131753Z",
+  "source_events": 1961,
   "categories": 9,
   "feeds": {
-    "whole-school": 24,
+    "whole-school": 23,
     "year-5": 47,
     "year-6": 1
   }

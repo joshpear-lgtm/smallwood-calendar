@@ -187,20 +187,6 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/inset-day/4
   source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
-UID:schoolspider-262-484602@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
-SUMMARY:Macclesfield Forest Ramble - Children in Need
-URL:https://www.smallwood.cheshire.sch.uk/event/macclesfield-forest-ramble-
- children-in-need/484602
-DTSTART:20261114T100000Z
-DTEND:20261114T120000Z
-DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/macclesfiel
- d-forest-ramble-children-in-need/484602\nTimes are published by the school
- . No duration is invented when the source has no valid end time.
-END:VEVENT
-BEGIN:VEVENT
 UID:schoolspider-262-484603@smallwood-calendar
 DTSTAMP:20261006T145353Z
 LAST-MODIFIED:20261006T145353Z
