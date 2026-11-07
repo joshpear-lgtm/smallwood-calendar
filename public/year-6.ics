@@ -20,4 +20,30 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/year-6-resi
  dential/489641\nTimes are published by the school. No duration is invented
   when the source has no valid end time.
 END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-500269@smallwood-calendar
+DTSTAMP:20261107T055719Z
+LAST-MODIFIED:20261107T055719Z
+SEQUENCE:0
+SUMMARY:Hazel Class Forest School
+URL:https://www.smallwood.cheshire.sch.uk/event/hazel-class-forest-school/5
+ 00269
+DTSTART:20261112T105000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/hazel-class
+ -forest-school/500269\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-500272@smallwood-calendar
+DTSTAMP:20261107T055719Z
+LAST-MODIFIED:20261107T055719Z
+SEQUENCE:0
+SUMMARY:Hazel Class Forest School
+URL:https://www.smallwood.cheshire.sch.uk/event/hazel-class-forest-school/5
+ 00272
+DTSTART:20261126T105000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/hazel-class
+ -forest-school/500272\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
+END:VEVENT
 END:VCALENDAR

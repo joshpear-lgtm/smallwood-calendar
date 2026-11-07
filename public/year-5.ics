@@ -135,19 +135,6 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
  n the source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
-UID:schoolspider-262-494100@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
-SUMMARY:Beech class\, forrest school
-URL:https://www.smallwood.cheshire.sch.uk/event/beech-class-forrest-school/
- 494100
-DTSTART:20261105T130000Z
-DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
- -forrest-school/494100\nTimes are published by the school. No duration is 
- invented when the source has no valid end time.
-END:VEVENT
-BEGIN:VEVENT
 UID:schoolspider-262-494063@smallwood-calendar
 DTSTAMP:20261006T145353Z
 LAST-MODIFIED:20261006T145353Z
@@ -158,6 +145,19 @@ DTSTART:20261106T093000Z
 DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
  -pe/494063\nTimes are published by the school. No duration is invented whe
  n the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
+UID:schoolspider-262-500114@smallwood-calendar
+DTSTAMP:20261107T055719Z
+LAST-MODIFIED:20261107T055719Z
+SEQUENCE:0
+SUMMARY:Beech Class Forest School
+URL:https://www.smallwood.cheshire.sch.uk/event/beech-class-forest-school/5
+ 00114
+DTSTART:20261112T130000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
+ -forest-school/500114\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
 UID:schoolspider-262-494064@smallwood-calendar
@@ -172,19 +172,6 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
  n the source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
-UID:schoolspider-262-494103@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
-SUMMARY:Beech class\, forrest school
-URL:https://www.smallwood.cheshire.sch.uk/event/beech-class-forrest-school/
- 494103
-DTSTART:20261119T130000Z
-DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
- -forrest-school/494103\nTimes are published by the school. No duration is 
- invented when the source has no valid end time.
-END:VEVENT
-BEGIN:VEVENT
 UID:schoolspider-262-494065@smallwood-calendar
 DTSTAMP:20261006T145353Z
 LAST-MODIFIED:20261006T145353Z
@@ -197,6 +184,19 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
  n the source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
+UID:schoolspider-262-500115@smallwood-calendar
+DTSTAMP:20261107T055719Z
+LAST-MODIFIED:20261107T055719Z
+SEQUENCE:0
+SUMMARY:Beech Class Forest School
+URL:https://www.smallwood.cheshire.sch.uk/event/beech-class-forest-school/5
+ 00115
+DTSTART:20261126T130000Z
+DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
+ -forest-school/500115\nTimes are published by the school. No duration is i
+ nvented when the source has no valid end time.
+END:VEVENT
+BEGIN:VEVENT
 UID:schoolspider-262-494066@smallwood-calendar
 DTSTAMP:20261006T145353Z
 LAST-MODIFIED:20261006T145353Z
@@ -207,19 +207,6 @@ DTSTART:20261127T093000Z
 DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
  -pe/494066\nTimes are published by the school. No duration is invented whe
  n the source has no valid end time.
-END:VEVENT
-BEGIN:VEVENT
-UID:schoolspider-262-494104@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
-SUMMARY:Beech class\, forrest school
-URL:https://www.smallwood.cheshire.sch.uk/event/beech-class-forrest-school/
- 494104
-DTSTART:20261203T130000Z
-DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/beech-class
- -forrest-school/494104\nTimes are published by the school. No duration is 
- invented when the source has no valid end time.
 END:VEVENT
 BEGIN:VEVENT
 UID:schoolspider-262-494067@smallwood-calendar
