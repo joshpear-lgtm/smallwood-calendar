@@ -295,12 +295,12 @@ DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christmas-p
 END:VEVENT
 BEGIN:VEVENT
 UID:schoolspider-262-484614@smallwood-calendar
-DTSTAMP:20261006T145353Z
-LAST-MODIFIED:20261006T145353Z
-SEQUENCE:0
+DTSTAMP:20261110T194302Z
+LAST-MODIFIED:20261110T194302Z
+SEQUENCE:1
 SUMMARY:Christingle Service
 URL:https://www.smallwood.cheshire.sch.uk/event/christingle-service/484614
-DTSTART:20261218T110000Z
+DTSTART:20261218T090000Z
 DESCRIPTION:Source: https://www.smallwood.cheshire.sch.uk/event/christingle
  -service/484614\nTimes are published by the school. No duration is invente
  d when the source has no valid end time.
